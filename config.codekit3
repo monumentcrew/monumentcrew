@@ -13,7 +13,7 @@
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/build/.gitignore",
+		"oAP": "/.gitignore",
 		"oF": 0
 		},
 	"/_cd": {
@@ -22,11 +22,179 @@
 		"oAP": "/build/_cd",
 		"oF": 0
 		},
-	"/build": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/build/build",
+	"/_source/index.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "/index.html",
+		"oF": 2
+		},
+	"/_source/js/vendor/anime.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/js/vendor/anime.min.js",
+		"oF": 3,
+		"sC": 3,
+		"tS": 0
+		},
+	"/_source/js/vendor/charming.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/js/vendor/charming.min.js",
+		"oF": 3,
+		"sC": 3,
+		"tS": 0
+		},
+	"/_source/js/vendor/imagesloaded.pkgd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/js/vendor/imagesloaded.pkgd.min.js",
+		"oF": 3,
+		"sC": 3,
+		"tS": 0
+		},
+	"/_source/js/vendor/masonry.pkgd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/js/vendor/masonry.pkgd.min.js",
+		"oF": 3,
+		"sC": 3,
+		"tS": 0
+		},
+	"/_source/js/vendor/mo.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/js/vendor/mo.min.js",
+		"oF": 3,
+		"sC": 3,
+		"tS": 0
+		},
+	"/_source/js/vendor/scrollmonitor.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/js/vendor/scrollmonitor.min.js",
+		"oF": 3,
+		"sC": 3,
+		"tS": 0
+		},
+	"/_source/js/vendor/tweenmax.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/js/vendor/tweenmax.min.js",
+		"oF": 3,
+		"sC": 3,
+		"tS": 0
+		},
+	"/_source/js/vendor/waypoint.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/js/vendor/waypoints.min.js",
+		"oF": 3,
+		"sC": 3,
+		"tS": 0
+		},
+	"/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/index.html",
 		"oF": 0
+		},
+	"/js/vendor/anime.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/vendor/anime.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/js/vendor/charming.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/vendor/charming.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/js/vendor/imagesloaded.pkgd.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/vendor/imagesloaded.pkgd.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/js/vendor/masonry.pkgd.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/vendor/masonry.pkgd.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/js/vendor/mo.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/vendor/mo.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/js/vendor/scrollmonitor.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/vendor/scrollmonitor.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/js/vendor/tweenmax.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/vendor/tweenmax.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/js/vendor/waypoints.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/vendor/waypoints.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
 	"/README.md": {
 		"cB": 0,
@@ -37,7 +205,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "/build/README.html",
+		"oAP": "/README.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -45,93 +213,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"/source/index.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"oA": 0,
-		"oAP": "/build/index.html",
-		"oF": 0
-		},
-	"/source/js/vendor/anime.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/build/js/vendor/anime.min.js",
-		"oF": 3,
-		"sC": 3,
-		"tS": 0
-		},
-	"/source/js/vendor/charming.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/build/js/vendor/charming.min.js",
-		"oF": 3,
-		"sC": 3,
-		"tS": 0
-		},
-	"/source/js/vendor/imagesloaded.pkgd.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/build/js/vendor/imagesloaded.pkgd.min.js",
-		"oF": 3,
-		"sC": 3,
-		"tS": 0
-		},
-	"/source/js/vendor/masonry.pkgd.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/build/js/vendor/masonry.pkgd.min.js",
-		"oF": 3,
-		"sC": 3,
-		"tS": 0
-		},
-	"/source/js/vendor/mo.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/build/js/vendor/mo.min.js",
-		"oF": 3,
-		"sC": 3,
-		"tS": 0
-		},
-	"/source/js/vendor/scrollMonitor.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/build/js/vendor/scrollmonitor.min.js",
-		"oF": 3,
-		"sC": 3,
-		"tS": 0
-		},
-	"/source/js/vendor/tweenmax.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/build/js/vendor/tweenmax.min.js",
-		"oF": 3,
-		"sC": 3,
-		"tS": 0
-		},
-	"/source/js/vendor/waypoint.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/build/js/vendor/waypoints.min.js",
-		"oF": 3,
-		"sC": 3,
-		"tS": 0
 		}
 	},
 "hooks": [
@@ -144,7 +225,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-maroney",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 562602754.59653699
+	"lastBuiltDate": 562603240.80619204
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -386,7 +467,7 @@
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
-	"buildFolderActive": 1,
+	"buildFolderActive": 0,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
@@ -2424,7 +2505,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$,exports,require",
-	"websiteRelativeRoot": "/build"
+	"websiteRelativeRoot": ""
 	},
 "settingsFileVersion": "3"
 }
